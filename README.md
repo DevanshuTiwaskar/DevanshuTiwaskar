@@ -13,10 +13,10 @@
 🌟 When I'm not coding, you can find me exploring the great outdoors, experimenting with new recipes in the kitchen, or diving into a captivating book. Let's connect and collaborate on exciting projects to bring ideas to life!
 
 ## Skills
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js, Vue.js
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools & Others:** Git, Docker, RESTful APIs, GraphQL
+- **Database:** MongoDB
+- **Tools & Others:** Git, Docker, RESTful APIs
 
 
 ### 🧰 Languages and Tools
